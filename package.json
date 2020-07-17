@@ -1,0 +1,23 @@
+{
+  "name": "dm_unibo_common_js",
+  "version": "0.0.1",
+  "description": "Common code js for dm_unibo_common ruby gem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donapieppo/dm_unibo_common_js.git"
+  },
+  "keywords": [
+    "dm_unibo_common",
+    "js"
+  ],
+  "author": "Donapieppo <donapieppo@yahoo.it>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/donapieppo/dm_unibo_common_js/issues"
+  },
+  "homepage": "https://github.com/donapieppo/dm_unibo_common_js#readme"
+}
